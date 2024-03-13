@@ -1,0 +1,9 @@
+name: LetItTree
+api: 5.0.0
+version: 0.0.1-ALPHA
+description: A PocketMine V5 plugin which tries to implement all tree types
+author: Matze997
+main: matze\letittree\LetItTree
+permissions:
+  command.letittree.use:
+    default: op
